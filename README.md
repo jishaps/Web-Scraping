@@ -1,2 +1,2 @@
 # Web-Scraping
-Extracting data with Beatiful Soup package in Python
+Extracting data with Beautiful Soup package in Python
